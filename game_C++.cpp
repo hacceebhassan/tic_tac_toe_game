@@ -1,3 +1,13 @@
+/**
+ * @file game_C++.cpp
+ *
+ * @brief This is an implementation of tic tac toe game in C++
+ *
+ * @author M. Haseeb Hassan
+ * Contact: hacceebhassan@gmail.com
+ *
+ */
+
 #include <iostream>
  
 using namespace std;
